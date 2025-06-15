@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Woof</string>
+    <string name="dog_name_1">Maple</string>
+    <string name="dog_name_2">Charlie</string>
+    <string name="dog_name_3">Nova</string>
+    <string name="dog_name_4">Ziggy</string>
+    <string name="dog_name_5">Peanut</string>
+    <string name="dog_name_6">Atlas</string>
+    <string name="dog_name_7">Blaze</string>
+    <string name="dog_name_8">Rosie</string>
+    <string name="dog_name_9">Bandit</string>
+    <string name="dog_description_1">Maple adalah Golden Retriever betina berusia 4 tahun yang ceria dan suka berenang serta bermain frisbee. Dia sangat sabar dengan anak-anak dan punya bakat khusus merasakan kapan seseorang butuh hiburan. Maple senang jogging pagi dan selalu menyambut semua orang dengan ekor bergoyang.</string>
+    <string name="dog_description_2">Charlie adalah Labrador jantan berusia 3 tahun yang santai dan lebih suka sore yang tenang dengan jalan-jalan pelan. Dia teman yang sempurna untuk momen-momen hening, suka digaruk perutnya, dan punya kebiasaan membawa mainan favoritnya ke mana-mana. Charlie cocok untuk pemilik yang sudah lanjut usia.</string>
+    <string name="dog_description_3">Nova adalah Border Collie betina berusia 2 tahun yang energik dengan kemampuan memecahkan masalah yang luar biasa. Dia jago di lintasan agility, suka belajar trik baru, dan butuh banyak stimulasi mental. Nova sempurna untuk keluarga aktif yang gemar petualangan outdoor.</string>
+    <string name="dog_description_4">Ziggy adalah Beagle jantan berusia 3 tahun yang penasaran dengan indra penciuman yang luar biasa. Dia suka berburu harta karun di halaman belakang, excited banget sama setiap waktu makan, dan punya gonggongan ramah yang menyambut semua orang. Ziggy sosial dan senang ketemu anjing baru di taman.</string>
+    <string name="dog_description_5">Peanut adalah Pomeranian betina berusia 4 tahun dengan bulu emas dan kepribadian besar. Meski tubuhnya kecil, dia merasa seperti anjing penjaga dan akan memberitahu setiap ada tamu. Peanut suka naik mobil dan dibawa dalam tas yang stylish.</string>
+    <string name="dog_description_6">Atlas adalah Rottweiler jantan berusia 5 tahun yang merupakan raksasa lembut. Dia tenang, protektif, dan sangat loyal pada keluarganya. Atlas senang jalan sore, bermain dengan mainan tali, dan mengawasi rumah. Dia mengejutkan karena sangat lembut dengan anak kecil.</string>
+    <string name="dog_description_7">Blaze adalah Husky betina berusia 3 tahun dengan energi tinggi yang hidup untuk petualangan. Dia suka hiking, lari, dan bermain di salju. Blaze punya mata biru yang menawan dan butuh pemilik aktif yang bisa mengimbangi antusiasmenya yang tak terbatas untuk eksplorasi.</string>
+    <string name="dog_description_8">Rosie adalah Cocker Spaniel betina berusia 4 tahun yang manis dengan telinga halus dan sifat penyayang. Dia senang jalan santai, bermain dengan mainan lembut, dan meringkuk di sofa untuk nonton film. Rosie luar biasa dengan anak-anak dan suka jadi bagian dari aktivitas keluarga.</string>
+    <string name="dog_description_9">Bandit adalah Shiba Inu jantan berusia 2 tahun yang pintar dengan sifat jahil. Dia mandiri tapi loyal, suka menjelajahi tempat baru, dan sudah menguasai seni membuka pintu. Bandit senang dengan mainan puzzle dan pamer kecerdasannya ke tamu.</string>
+    <string name="about">Tentang:</string>
+    <string name="years_old">%d tahun</string>
+    <string name="expand_button_content_description">Lihat informasi lebih lengkap atau ringkas tentang anjing ini.</string>
+</resources>
